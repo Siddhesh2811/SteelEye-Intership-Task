@@ -1,5 +1,5 @@
 
-# Data Engineering Assignment (SteelEye Internship Assignment)
+# Data Engineering Assignment (SteelEye Internship)
 
 This repository is created as a submission of my assignment for the role of Data Engineer Intern at SteelEye. 
 
